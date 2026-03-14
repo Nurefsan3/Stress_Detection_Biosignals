@@ -48,6 +48,8 @@ The purpose of this phase is to examine the effects of different stress-reductio
 
   
 
+  
+
 The following screenshots show the PsychoPy interface used to implement the cognitive stress task
 
 

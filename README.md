@@ -50,7 +50,7 @@ The purpose of this phase is to examine the effects of different stress-reductio
 
 The following screenshots show the PsychoPy interface used to implement the cognitive stress task
 
-
+<img src="pipeline.png" width="700">
 
 
 <img width="785" height="400" alt="image" src="https://github.com/user-attachments/assets/e8b03b13-d63a-402e-b847-d1ddc9b66a07" />
